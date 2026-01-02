@@ -86,9 +86,24 @@ An embedded system replicating human hand movement using EMG signals.
 - Multiple hackathons & research showcases
 
 ---
+## 📊 GitHub Stats
+<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ctrl-shit-del&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ctrl-shit-del&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ctrl-shit-del&theme=dark&hide_border=false" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ctrl-shit-del&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ctrl-shit-del&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4"  />
+</div>
+---
 
 ## 📫 Connect
-- LinkedIn: (link)
-- Portfolio: (link)
-- Email: (optional)
+- LinkedIn: [(Harsh Singhal)](https://www.linkedin.com/in/singhalharsh1/)
+- Email: singhalkharsh@gmail.com
 
